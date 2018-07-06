@@ -14,6 +14,7 @@ sitemap:
 
 <span class="image main"><img src="{{ "/images/pic04.jpg" | absolute_url }}" alt="" /></span>
 
+<p style="text-align: center;">If you’re driving a long ways or just want to stay the night, this hotel is only about 10 minutes? from the venue.</p>
 
 <p style="text-align: center;">633 Resort Drive, Moravia, IA 52571</p>
 
