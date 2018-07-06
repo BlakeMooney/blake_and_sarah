@@ -1,0 +1,6 @@
+<ul class="links">
+  <li class="{% if page.url == "/" %} active {% endif %}"><a href="{{ "/" | absolute_url }}">The Venue</a></li>
+  <li class="{% if page.url contains '/about/' %} active {% endif %}"><a href="{{ "/about/" | absolute_url }}">Accommodations</a></li>
+  <li class="{% if page.url contains '/registry/' %} active {% endif %}"><a href="{{ "/registry/" | absolute_url }}">Registry</a></li>
+  <li class="{% if page.url contains '/elements/' %} active {% endif %}"><a href="{{ "/elements/" | absolute_url }}">Online RSVP</a></li>
+</ul>
