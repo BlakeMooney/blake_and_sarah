@@ -1668,7 +1668,7 @@
 		}
 
 	body {
-		color: #664663;
+		color: #4e3a4c;
 	}
 
 	body, input, select, textarea {
@@ -1812,11 +1812,11 @@
 	}
 
 	input, select, textarea {
-		color: #664663;
+		color: #4e3a4c;
 	}
 
 	a {
-		color: #664663;
+		color: #4e3a4c;
 		border-bottom-color: rgba(33, 41, 49, 0.5);
 	}
 
@@ -1826,11 +1826,11 @@
 		}
 
 	strong, b {
-		color: #664663;
+		color: #4e3a4c;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #664663;
+		color: #4e3a4c;
 	}
 
 	blockquote {
@@ -2021,8 +2021,8 @@
 	button,
 	.button {
 		background-color: transparent;
-		box-shadow: inset 0 0 0 2px #664663;
-		color: #664663 !important;
+		box-shadow: inset 0 0 0 2px #4e3a4c;
+		color: #4e3a4c !important;
 	}
 
 		input[type="submit"]:hover,
@@ -2039,7 +2039,7 @@
 		input[type="button"].special,
 		button.special,
 		.button.special {
-			background-color: #664663;
+			background-color: #4e3a4c;
 			box-shadow: none;
 			color: #ffffff !important;
 		}
@@ -2320,7 +2320,7 @@
 	}
 
 	label {
-		color: #664663;
+		color: #4e3a4c;
 	}
 
 	input[type="text"],
@@ -2341,7 +2341,7 @@
 
 	select option {
 		background-color: #ffffff;
-		color: #664663;
+		color: #4e3a4c;
 	}
 
 	.select-wrapper:before {
@@ -2350,7 +2350,7 @@
 
 	input[type="checkbox"] + label,
 	input[type="radio"] + label {
-		color: #664663;
+		color: #4e3a4c;
 	}
 
 		input[type="checkbox"] + label:before,
@@ -2360,8 +2360,8 @@
 
 	input[type="checkbox"]:checked + label:before,
 	input[type="radio"]:checked + label:before {
-		background-color: #664663;
-		border-color: #664663;
+		background-color: #4e3a4c;
+		border-color: #4e3a4c;
 		color: #ffffff;
 	}
 
@@ -2888,7 +2888,7 @@
 		}
 
 	table th {
-		color: #664663;
+		color: #4e3a4c;
 	}
 
 	table thead {
@@ -2989,7 +2989,7 @@
 	}
 
 	.pagination a {
-		color: #664663 !important;
+		color: #4e3a4c !important;
 	}
 
 		.pagination a:hover {
@@ -3028,7 +3028,7 @@
 			left: 0;
 			width: 100%;
 			height: 100%;
-			background-color: #664663;
+			background-color: #4e3a4c;
 			background-image: url("../../images/overlay.png"), linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("../../images/bg.jpg");
 			background-size: auto,								auto,														100% auto;
 			background-position: center,								center,														top center;
@@ -4325,7 +4325,7 @@
 		#navPanelToggle.alt {
 			background-color: rgba(255, 255, 255, 0.875);
 			box-shadow: 0 0.125rem 0.75rem 0 rgba(30, 37, 45, 0.25);
-			color: #664663;
+			color: #4e3a4c;
 		}
 
 			#navPanelToggle.alt:hover {
@@ -4362,7 +4362,7 @@
 		-webkit-overflow-scrolling: touch;
 		background: #ffffff;
 		box-shadow: none;
-		color: #664663;
+		color: #4e3a4c;
 		height: 100%;
 		max-width: 80%;
 		overflow-y: auto;
@@ -4437,7 +4437,7 @@
 			}
 
 			#navPanel .close:hover {
-				color: #664663;
+				color: #4e3a4c;
 			}
 
 			@media screen and (max-width: 736px) {
